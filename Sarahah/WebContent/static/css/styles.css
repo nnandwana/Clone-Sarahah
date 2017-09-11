@@ -1,0 +1,67 @@
+@charset "ISO-8859-1";
+
+.navbar-default {
+	background: #2F4F4F !important;
+}
+
+.navbar-nav {
+	float: right;
+}
+
+.navbar-default .navbar-brand {
+	color: WHITE;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: WHITE;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus
+	{
+	color: white;
+}
+
+body {
+	background-color: #f5f8fa;
+}
+
+.well {
+	background-color: white !important;
+	margin-left: 63px;
+	margin-right: 63px;
+}
+
+.well>p {
+	text-align: center !important;
+}
+
+.message {
+	color: #0CC8C9;
+}
+
+th {
+	background: #2F4F4F !important;
+	color: white;
+}
+
+.panel-info {
+    border-color: #0CC8C9;
+    margin-top: 97px;
+}
+
+.panel-info>.panel-heading {
+    color: WHITE;
+    background-color: #0CC8C9;
+    text-align:center;
+    font-weight:bold;
+}
+.btn-default {
+	color: white;
+	background-color: #0CC8C9;
+	border-color: #ccc;
+	width: 50%;
+}
+
+.col-sm-offset-2 {
+	margin-left: 0.666667%;
+}
